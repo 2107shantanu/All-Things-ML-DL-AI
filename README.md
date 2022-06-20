@@ -1,2 +1,2 @@
-# PracticeML
-This is all my practice codes 
+# All-Things-ML-DL-AI
+This contains all Machine Learning, Deep Learning, AI related projects I have done
